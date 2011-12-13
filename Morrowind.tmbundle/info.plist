@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>natesm@gmail.com</string>
+	<key>contactName</key>
+	<string>Nate Stedman</string>
+	<key>description</key>
+	<string>The "Oblivion" theme, for TextMate!.</string>
+	<key>isDisabled</key>
+	<false/>
+	<key>name</key>
+	<string>Morrowind</string>
+	<key>uuid</key>
+	<string>6265497D-ACFB-42F9-8311-5E8AC0EED762</string>
+</dict>
+</plist>
